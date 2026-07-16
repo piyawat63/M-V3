@@ -1,0 +1,29 @@
+# ---- STM32CubeIDE build output ----
+Debug/
+Release/
+build/
+*/Debug/
+*/Release/
+
+# ---- Compiled objects ----
+*.o
+*.d
+*.su
+*.a
+*.elf
+*.bin
+*.hex
+*.list
+*.map
+*.cyclo
+
+# ---- IDE settings ----
+.settings/
+.metadata/
+RemoteSystemsTempFiles/
+*.launch
+
+# ---- Windows / OS junk ----
+Thumbs.db
+Desktop.ini
+.DS_Store
